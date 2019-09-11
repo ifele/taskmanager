@@ -1,0 +1,8 @@
+p{
+	font-weight: bold;
+	color: blue;
+}
+table, tr, td, th{
+	padding: 12px 12px 12px 12px;
+	border: solid;
+}
